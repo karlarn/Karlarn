@@ -1,4 +1,4 @@
-Hi 👋 My name is Karla Nichols
+Hi! 👋 This is my overview...
 ==============================
 
 Full Stack Web Developer JS REACT HTML CSS C# .NET
@@ -9,7 +9,7 @@ I'm currently enrolled at Nashville Software School. Graduating August, 2022. On
 * 🌍  I'm based in Nashville, TN
 * 🖥️  See my full work history on [LinkedIn](http://https://www.linkedin.com/in/karla-nichols/)
 * ✉️  You can contact me at [karlarnichols@gmail.com](mailto:karlarnichols@gmail.com)
-* 🚀  I'm currently working on [Animal enCounter](http://github.com/karlarn/Animal-enCounter)
+* 🚀  I'm currently working on [Goal Getters](https://github.com/karlarn/Goal-Getters)
 * 🧠  I'm learning REACT
 
 ### Skills
