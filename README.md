@@ -1,11 +1,11 @@
-How do you comfot a JS bug? 🦟
+How do you comfort a JS bug? 🦟
 You console it. 📺
 ==============================
 
 Full Stack Web Developer JS REACT HTML CSS C# .NET
 --------------------------------------------------
 
-I Graduated Nashville Software School August, 2022. Ask me about JS, React, HTML, CSS, C#, and .NET. Check out my repositories and feel free to share some feedback with me!
+I graduated Nashville Software School August, 2022. Ask me about JS, React, HTML, CSS, C#, and .NET. Check out my repositories and feel free to share some feedback with me!
 
 * 🌍  I'm based in Nashville, TN
 * 🖥️  See my full work history on [LinkedIn](http://https://www.linkedin.com/in/karla-nichols/)
