@@ -1,5 +1,4 @@
-How do you comfort a JS bug? 🦟
-You console it. 📺
+What's a Junior role to you? Let me know! 
 ==============================
 
 Full Stack Web Developer JS REACT HTML CSS C# .NET
