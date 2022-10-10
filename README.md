@@ -4,13 +4,13 @@ What's a Junior role to you? Let me know!
 Full Stack Web Developer JS REACT HTML CSS C# .NET
 --------------------------------------------------
 
-I graduated Nashville Software School August, 2022. Ask me about JS, React, HTML, CSS, C#, and .NET. Check out my repositories and feel free to share some feedback with me!
+I graduated Nashville Software School August, 2022. Ask me about JS, React, HTML, CSS, C#, and .NET. Check out my repositories and share some feedback with me!
 
-* 🌍  I'm based in Nashville, TN
-* 🖥️  See my full work history on [LinkedIn](http://https://www.linkedin.com/in/karla-nichols/)
+* 🌍  I exist in Nashville, TN
+* 🖥️  See my work history on [LinkedIn](http://https://www.linkedin.com/in/karla-nichols/)
 * ✉️  You can contact me at [karlarnichols@gmail.com](mailto:karlarnichols@gmail.com)
-* 🚀  I'm currently working on [Goal Getters](https://github.com/karlarn/Goal-Getters)
-* 🧠  Do you even [HackerRank](https://www.hackerrank.com/karlarnichols) or [CodeWars](https://www.codewars.com/users/karlarn)?
+* 🚀  You want to clone and break [Goal Getters](https://github.com/karlarn/Goal-Getters)?
+* 🧠  Do you even [CodeWars](https://www.codewars.com/users/karlarn) or [HackerRank](https://www.hackerrank.com/karlarnichols)?
 
 ### Skills
 
