@@ -1,4 +1,4 @@
-What's a Junior role to you? Let me know! 
+What's a Junior role resolution to you? Let me know! 
 ==============================
 
 Full Stack Web Developer JS REACT HTML CSS C# .NET
