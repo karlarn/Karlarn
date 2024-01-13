@@ -1,10 +1,15 @@
 --------------------------------------------------
+Infor CloudSuite Industrial (Syteline) ERP Engineer
+--------------------------------------------------
 Full Stack Web Developer JS REACT HTML CSS C# .NET
+
 --------------------------------------------------
 
 I graduated Nashville Software School August, 2022. Ask me about JS, React, HTML, CSS, C#, and .NET. Check out my repositories and share some feedback with me!
 
-* 🌍  I exist in Nashville, TN
+Since graduating I've been honing my skills as an ERP Software Engineer for Infor CloudSuite Industrial and the on premise version, Infor Syteline. 
+
+* 🌍  I exist in Bristol, CT.
 * 🖥️  See my work history on [LinkedIn](http://https://www.linkedin.com/in/karla-nichols/)
 * ✉️  You can contact me at [karlarnichols@gmail.com](mailto:karlarnichols@gmail.com)
 * 🚀  You want to clone and break [Goal Getters](https://github.com/karlarn/Goal-Getters)?
@@ -25,8 +30,3 @@ I graduated Nashville Software School August, 2022. Ask me about JS, React, HTML
 ### Socials
 
 <p align="left"> <a href="https://www.codepen.io/karlarnichols" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/karlarn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/karla-nichols" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/karlarn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=karlarn&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
