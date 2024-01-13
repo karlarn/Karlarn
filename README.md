@@ -7,7 +7,7 @@ Full Stack Web Developer JS REACT HTML CSS C# .NET
 
 I graduated Nashville Software School August, 2022. Ask me about JS, React, HTML, CSS, C#, and .NET. Check out my repositories and share some feedback with me!
 
-Since graduating I've been honing my skills as an ERP Software Engineer for Infor CloudSuite Industrial and the on premise version, Infor Syteline. 
+Since graduating I've been honing my skills as an ERP(Enterprise Resource Planning) Software Engineer for Infor CloudSuite Industrial and the on premise version, Infor Syteline. 
 
 * 🌍  I exist in Bristol, CT.
 * 🖥️  See my work history on [LinkedIn](http://https://www.linkedin.com/in/karla-nichols/)
